@@ -7,4 +7,4 @@ Designed for python 2.7
 
 <br />
 
-python mark_Calculator.py < marks_file > (in this case it is __powerschool_Marks.txt__)
+python mark_Calculator.py __powerschool_Marks.txt__
